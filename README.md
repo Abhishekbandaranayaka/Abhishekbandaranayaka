@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studing on **NSBM Green University**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node Js**
 
 - 👯 I’m looking to collaborate on **software development projects**
 
