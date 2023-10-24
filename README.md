@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhibro2001" target="blank"><img src="https://img.shields.io/twitter/follow/abhibro2001?logo=twitter&style=for-the-badge" alt="abhibro2001" /></a> </p>
 
-- 🔭 I’m currently studing on **NSBM Green University**
+- 🔭 I’m currently studying on **NSBM Green University**
 
 - 🌱 I’m currently learning **Node Js**
 
